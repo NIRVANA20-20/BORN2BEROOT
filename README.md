@@ -1,4 +1,4 @@
-               This project has been created as part of the 42 curriculum by <olaizi>
+                This project has been created as part of the 42 curriculum by <olaizi>
 
 # BORN2BEROOT
 
@@ -97,11 +97,22 @@ UFW (uncomplicated firewall) is a command-line tool designed to simplify firewal
 
 Linux PAM helps by providing a flexible way to manage user authentication and security.
 
-## Resources
+## Bonus Description and Steps:
+In this project, the bonus part includes setting up a web server with **Lighttpd**, **PHP**, **MariaDB**, and **WordPress**. This allows hosting dynamic websites and managing data securely.
+
+### Steps:
+- **Install Lighttpd:** Set up the web server to host websites.
+- **Install PHP:** Enable server-side scripting for dynamic content.
+- **Install MariaDB:** Set up the database system to store website data.
+- **Create a database:** Use MariaDB to create a database for WordPress.
+- **Install WordPress:** Configure WordPress to use the database and web server.
+- **Test the website:** Ensure the server, PHP, database, and WordPress work together.
+
+## Resources:
 
 The following resources were used to understand and complete the Born2beRoot project:
 
-### Documentation & Articles
+### Documentation & Articles:
 
 - SSH (remote access):  
   https://www.redhat.com/en/blog/access-remote-systems-ssh
@@ -121,7 +132,7 @@ The following resources were used to understand and complete the Born2beRoot pro
 - Born2beRoot subject explanation:  
   https://noreply.gitbook.io/born2beroot
 
-### AI Usage
+### AI Usage:
 
 AI tools were used as a **learning assistant** during this project.
 
